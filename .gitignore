@@ -5,3 +5,6 @@
 /.vs/SystemProgramming
 /Homework2/obj
 /Homework6/obj
+obj
+bin
+.idea
